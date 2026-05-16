@@ -1,18 +1,18 @@
-🔐 Strong Password Generator
-
-A simple yet powerful Password Generator built completely with Python.
-Generate secure and random passwords using letters, digits, and symbols according to your desired password length.
-
-✨ Features
-
-✅ Strong Random Password Generation
-✅ User-Defined Password Length
-✅ Includes:
-
-Uppercase Letters
-Lowercase Letters
-Digits
-Special Symbols
+🔐 Strong Password Generator<br>
+<br>
+A simple yet powerful Password Generator built completely with Python.<br>
+Generate secure and random passwords using letters, digits, and symbols according to your desired password length.<br>
+<br>
+✨ Features<br>
+<br>
+✅ Strong Random Password Generation<br>
+✅ User-Defined Password Length<br>
+✅ Includes:<br>
+<br>
+Uppercase Letters<br>
+Lowercase Letters<br>
+Digits<br>
+Special Symbols<br>
 
 ✅ Infinite Loop Support
 ✅ Easy-to-Use CLI Interface
